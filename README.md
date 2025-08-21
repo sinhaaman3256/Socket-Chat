@@ -149,9 +149,5 @@ Type messages in client terminals and press Enter; messages will be broadcast to
 
 ---
 
-## 📜 License
-MIT License — feel free to fork and extend.
-
----
 
 
