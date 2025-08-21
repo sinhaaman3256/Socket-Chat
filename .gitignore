@@ -1,0 +1,16 @@
+# Ignore build artifacts
+/build/
+*.o
+*.out
+*.exe
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode configs (optional, if you don’t want them in repo)
+.vscode/
